@@ -28,6 +28,8 @@ This is **not** a medical or clinical tool.
 - ⚡ Fast frontend-first architecture
 
 ---
+## Try Out
+- https://chill-chacha-ai-main.vercel.app/
 
 ## Tech Stack
 
@@ -39,12 +41,6 @@ This is **not** a medical or clinical tool.
 - **Voice**:
   - Speech-to-Text (browser / API based)
   - Text-to-Speech (browser / API based)
-
----
-
-## Project Structure
-
-├── public/ │   ├── favicon.ico │   └── chacha.png ├── src/ │   ├── components/ │   │   └── ui/        # shadcn components │   ├── pages/ │   │   ├── Index.tsx │   │   └── NotFound.tsx │   ├── lib/ │   ├── hooks/ │   ├── App.tsx │   └── main.tsx ├── index.html └── package.json
 
 ---
 
@@ -108,7 +104,9 @@ Character and UX take priority over features.
 
 ## License
 
-MIT<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Fs-hari-haran%2Ffb-test">
+MIT
+
+<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Fs-hari-haran%2Ffb-test">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
